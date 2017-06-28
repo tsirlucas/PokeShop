@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+npm-debug.*
+
+.idea/
+*.iml
+*.iws
